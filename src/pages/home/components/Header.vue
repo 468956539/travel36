@@ -1,15 +1,15 @@
 <template>
 <div class="header">
     <div class="header_left">
-      <div class="iconfont back_icon">&#xe624;</div>
+        成都
+        <span class="iconfont drop-down_icon">&#58901;</span>
     </div>
     <div class="header_input">
-      <span class="iconfont">&#xe632;</span>
-      输入城市/游玩/景点主题
+      <span class="iconfont search_icon">&#58919;</span>
+      目的地/酒店/景点/关键字
     </div>
     <div class="header_right">
-      城市
-      <span class="iconfont">&#xe6aa;</span>
+        <div class="iconfont user_icon">&#58954;</div>
     </div>
 
 </div>
@@ -25,27 +25,44 @@ export default{
   .header{
     line-height: .86rem;
     display: flex;
-    background-color: #00bcd4;
     color: #fff;
   }
-  .header_left{width: .64rem;float: left;}
+  .header_left{
+    width: 1rem;
+    color:#23beae;
+    float: left;
+    margin-left: .2rem;
+    margin-right: .12rem;
+    text-align: center;
+  }
+  .drop-down_icon{
+    font-size:.20rem;
+  }
   .header_input{
     flex: 1;
     padding-left: .2rem;
-    background: #fff;
-    border-radius: .1rem;
+    background: #eaedf1;
+    border-radius: .5rem;
     height: .64rem;
     line-height: .64rem;
     margin-top: .12rem;
-    margin-left: .2rem;
-    color: #ccc;
+    color: #93989f;
+    text-align: center;
   }
-  .back_icon{
-    text-align: center;
-    }
+  .search_icon{
+    font-size:.20rem;
+  }
+ 
   .header_right{
-    width: 1.24rem;
+    width: .48rem;
     float: right;
+    color:#23beae;
+    margin-right: .2rem;
+    margin-left: .12rem;
     text-align: center;
-    }
+  }
+
+   .user_icon{
+    font-size:.42rem;
+  }
 </style>

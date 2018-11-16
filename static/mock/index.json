@@ -3,53 +3,76 @@
   "data": {
     "swiperList": [{
         "id": "0001",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg"
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/14/jLvNMj.jpg"
       },{
         "id": "0002",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg"
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/11/86PQJh.jpg"
       },{
         "id": "0003",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/14/DsQYR7.jpg"
       },{
         "id": "0004",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/14/IwN3NW.jpg"
+      },{
+        "id": "0005",
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/02/11/21/Upv1S6.jpg"
+      },{
+        "id": "0006",
+        "imgUrl": "https://pic5.40017.cn/02/001/16/25/rBANDFjdtsmACeIoAAEAANmW338998.jpg"
       }],
-    "iconList": [{
+      "ticketList": [{
         "id": "0001",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
-        "desc": "景点门票"
+        "imgUrl": "https://pic5.40017.cn/01/000/5f/30/rBANC1qozNqAb3vRAAAD_Qg-dt4234.png",
+        "desc": "火车票"
       }, {
         "id": "0002",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1711/df/86cbcfc533330d02.png",
-        "desc": "滑雪季"
+        "imgUrl": "https://pic5.40017.cn/02/001/5f/ab/rBLkCFqozNqAJqPYAAAFlYq1v7A413.png",
+        "desc": "机票"
       }, {
         "id": "0003",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1710/a6/83f636bd75ae6302.png",
-        "desc": "泡温泉"
+        "imgUrl": "https://pic5.40017.cn/01/000/5f/a5/rBLkBVqozNqAGbVbAAADpuwJ0xY082.png",
+        "desc": "酒店住宿"
       }, {
         "id": "0004",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
-        "desc": "动植园"
+        "imgUrl": "https://pic5.40017.cn/02/001/5f/ab/rBLkCFqozNqAF4UUAAAFH-2jq70957.png",
+        "desc": "酒店门票"
+      }],
+      "iconList": [{
+        "id": "0001",
+        "imgUrl": "https://pic5.40017.cn/01/000/5f/a6/rBLkBVqozbiAB7whAAABMV8dFnU373.png",
+        "desc": "汽车票"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://pic5.40017.cn/01/001/5f/aa/rBLkBVqoz5WARL6sAAACl0BdhXo397.png",
+        "desc": "周边行"
+      }, {
+        "id": "0003",
+        "imgUrl": "https://pic5.40017.cn/01/001/5f/a7/rBLkBVqozh6AXAIqAAABODWYrvg233.png",
+        "desc": "跟团游"
+      }, {
+        "id": "0004",
+        "imgUrl": "https://pic5.40017.cn/01/001/5f/34/rBANC1qoz0yAN8dqAAABQG6IdnQ608.png",
+        "desc": "国内游"
       }, {
         "id": "0005",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/d0/e09575e66f4aa402.png",
-        "desc": "游乐园"
+        "imgUrl": "https://pic5.40017.cn/01/000/5f/35/rBANC1qoz5-AZ1AHAAABu7UlTDA659.png",
+        "desc": "游轮游"
       }, {
         "id": "0006",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/59/569d3c096e542502.png",
-        "desc": "必游榜单"
+        "imgUrl": "https://pic5.40017.cn/01/000/5f/ab/rBLkBlqo0GKARZ0jAAACzlV1vD0332.png",
+        "desc": "出境游"
       }, {
         "id": "0007",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/17/4bd370f3eb1acd02.png",
-        "desc": "演出"
+        "imgUrl": "https://pic5.40017.cn/02/000/5f/b2/rBLkCFqo0GKAV-H4AAACCoRioMc656.png",
+        "desc": "海外玩"
       }, {
         "id": "0008",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/7f/b1ea3c8c7fb6db02.png",
-        "desc": "城市观光"
+        "imgUrl": "https://pic5.40017.cn/01/001/5f/ac/rBLkBVqo0MOAHG9GAAABfaEIhkw016.png",
+        "desc": "领签证"
       }, {
         "id": "0009",
-        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
-        "desc": "一日游"
+        "imgUrl": "https://pic5.40017.cn/02/001/5f/b3/rBLkCFqo0MOAazKPAAABDjXiKXA355.png",
+        "desc": "全球服务"
       }],
     "recommendList": [{
         "id": "0001",
@@ -77,7 +100,7 @@
         "title": "温都水城养生馆",
         "desc": "各种亚热带植物掩映其间仿佛置身热带雨林"
       }],
-    "weekendList": [{
+      "weekendList": [{
         "id": "0001",
         "imgUrl": "http://img1.qunarzz.com/sight/source/1510/6e/1ea71e2f04e.jpg_r_640x214_aa6f091d.jpg",
         "title": "北京温泉排行榜",

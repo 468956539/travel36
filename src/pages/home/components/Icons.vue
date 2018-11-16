@@ -49,7 +49,8 @@ export default{
   .icons >>> .swiper-container{
     overflow: hidden;
     height: 0;width: 100%;
-    padding-bottom: 55%;
+    padding-bottom: 30%;
+    margin-top: 0.20rem;
     /* background-color: green; */
   }
   .icon{
@@ -58,7 +59,7 @@ export default{
     float: left;
     height: 0;
     width: 25%;
-    padding-bottom: 25%;
+    padding-bottom: 15%;
     /* background-color: red; */
   }
   .icon_img{
@@ -72,15 +73,20 @@ export default{
   }
   .icon_img_style{
     display: block;
-    height: 100%;
-    margin: 0 auto;
+    width: 0.6rem;
+    margin: 0 auto; 
   }
   .icon_desc{
     position: absolute;
-    bottom: 0;left: 0;right: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     height: .44rem;
-    line-height: .44rem;
     text-align: center;
     color: #333;
+    font-size:0.2rem;
+  }
+  .icons >>> .swiper-pagination-bullet-active{
+    background: #707070 !important;
   }
 </style>

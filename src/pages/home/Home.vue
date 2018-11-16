@@ -2,6 +2,7 @@
 <div>
     <home-header></home-header>
     <home-swiper :list='swiperList'></home-swiper>
+    <home-ticket :list="ticketList"></home-ticket>
     <home-icons :list="iconList"></home-icons>
     <home-recommend :list="recommendList"></home-recommend>
 </div>
@@ -10,6 +11,7 @@
 <script>
 import HomeHeader from './components/Header'
 import HomeSwiper from './components/Swiper'
+import HomeTicket from './components/Ticket'
 import HomeIcons from './components/Icons'
 import HomeRecommend from './components/Recommend'
 import axios from 'axios'
@@ -18,12 +20,14 @@ export default{
   components: {
     HomeHeader,
     HomeSwiper,
+    HomeTicket,
     HomeIcons,
     HomeRecommend
   },
   data: function () {
     return {
       swiperList: [],
+      ticketList: [],
       iconList: [],
       recommendList: []
     }
@@ -37,6 +41,7 @@ export default{
       if (res.ret && res.data) {
         const data = res.data
         this.swiperList = data.swiperList
+        this.ticketList = data.ticketList
         this.iconList = data.iconList
         this.recommendList = data.recommendList
       }
