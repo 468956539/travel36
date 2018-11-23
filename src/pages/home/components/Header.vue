@@ -1,9 +1,11 @@
 <template>
 <div class="header">
-    <div class="header_left">
+    <router-link to="/city">
+      <div class="header_left">
         成都
         <span class="iconfont drop-down_icon">&#58901;</span>
-    </div>
+      </div>
+    </router-link>
     <div class="header_input">
       <span class="iconfont search_icon">&#58919;</span>
       目的地/酒店/景点/关键字

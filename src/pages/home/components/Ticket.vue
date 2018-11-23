@@ -7,7 +7,7 @@
             <p class="ticket_desc">{{item.desc}}</p>
        </div>
     </div>
-  </template>
+</template>
   
   <script>
   export default{

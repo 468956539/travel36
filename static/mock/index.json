@@ -3,22 +3,34 @@
   "data": {
     "swiperList": [{
         "id": "0001",
-        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/14/jLvNMj.jpg"
+        "imgUrl": "https://pic5.40017.cn/02/001/16/25/rBANDFjdtsmACeIoAAEAANmW338998.jpg",
+        "address": "三亚",
+        "desc": "一生值得去的国内目的地之一",
+        "month": "11"
       },{
         "id": "0002",
-        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/11/86PQJh.jpg"
+        "imgUrl": "https://pic5.40017.cn/03/000/63/43/rB5oQFvyLOSADb4XAAC6Lisl_js342.jpg"
       },{
         "id": "0003",
-        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/14/DsQYR7.jpg"
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/14/jLvNMj.jpg",
+        "address": "巴厘岛",
+        "desc": "世界是书本，从这里读起",
+        "month": "11"
       },{
         "id": "0004",
-        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/14/IwN3NW.jpg"
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/11/86PQJh.jpg",
+        "address": "上饶",
+        "desc": "超值优惠门票任你玩儿",
+        "month": "11"
       },{
         "id": "0005",
-        "imgUrl": "https://pic4.40017.cn/index/slide/2017/02/11/21/Upv1S6.jpg"
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/03/21/14/DsQYR7.jpg",
+        "address": "遂宁",
+        "desc": "不可忽视的身边美景",
+        "month": "11"
       },{
         "id": "0006",
-        "imgUrl": "https://pic5.40017.cn/02/001/16/25/rBANDFjdtsmACeIoAAEAANmW338998.jpg"
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/02/11/21/Upv1S6.jpg"
       }],
       "ticketList": [{
         "id": "0001",
