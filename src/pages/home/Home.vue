@@ -6,7 +6,10 @@
     <home-icons :list="iconList"></home-icons>
     <home-discount :list="discountList"></home-discount>
     <home-aboutapp :list="aboutappList"></home-aboutapp>
-    <home-recommend :list="recommendList"></home-recommend>
+    <home-hot :list="hotList"></home-hot>
+    <home-service></home-service>
+    <home-footer></home-footer>
+    <!-- <home-recommend :list="recommendList"></home-recommend> -->
 </div>
 </template>
 
@@ -18,6 +21,9 @@ import HomeIcons from './components/Icons'
 import HomeRecommend from './components/Recommend'
 import HomeDiscount from './components/Discount'
 import HomeAboutapp from './components/Aboutapp'
+import HomeHot from './components/Hot'
+import HomeService from './components/Service'
+import HomeFooter from './components/Footer'
 import axios from 'axios'
 export default{
   name: 'Home',
@@ -28,16 +34,20 @@ export default{
     HomeIcons,
     HomeRecommend,
     HomeDiscount,
-    HomeAboutapp
+    HomeAboutapp,
+    HomeHot,
+    HomeService,
+    HomeFooter
   },
   data: function () {
     return {
       swiperList: [],
       ticketList: [],
       iconList: [],
-      recommendList: [],
       discountList: [],
-      downloadappList: []
+      downloadappList: [],
+      hotList: [],
+      hotaddressList: []
     }
   },
   methods: {
@@ -51,9 +61,10 @@ export default{
         this.swiperList = data.swiperList
         this.ticketList = data.ticketList
         this.iconList = data.iconList
-        this.recommendList = data.recommendList
         this.discountList = data.recommendList
         this.downloadappList = data.downloadappList
+        this.hotList = data.hotList
+        this.hotaddressList = data.hotaddressList
       }
       console.log(res)
     }

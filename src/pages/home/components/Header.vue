@@ -52,7 +52,8 @@ export default{
     text-align: center;
   }
   .search_icon{
-    font-size:.20rem;
+    font-size:.28rem;
+    font-weight:bold;
   }
  
   .header_right{
@@ -66,5 +67,6 @@ export default{
 
    .user_icon{
     font-size:.42rem;
+    font-weight:bold;
   }
 </style>

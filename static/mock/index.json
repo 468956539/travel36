@@ -86,6 +86,56 @@
         "imgUrl": "https://pic5.40017.cn/02/001/5f/b3/rBLkCFqo0MOAazKPAAABDjXiKXA355.png",
         "desc": "全球服务"
       }],
+      "hotList": [{
+        "id": "0001",
+        "url": "//m.ly.com/public/destination/toprecommended?city_name=普吉岛",
+        "title": "普吉岛"
+      }, {
+        "id": "0002",
+        "url": "//m.ly.com/public/destination/toprecommended?city_name=曼谷",
+        "title": "曼谷"
+      }, {
+        "id": "0003",
+        "url": "//m.ly.com/public/destination/toprecommended?city_name=巴厘岛",
+        "title": "巴厘岛"
+      }, {
+        "id": "0004",
+        "url": "//m.ly.com/public/destination/toprecommended?city_name=芽庄",
+        "title": "芽庄"
+      }, {
+        "id": "0005",
+        "url": "//m.ly.com/public/destination/toprecommended?city_name=大阪",
+        "title": "大阪"
+      }, {
+        "id": "0006",
+        "url": "//m.ly.com/public/destination/toprecommended?city_name=冲绳",
+        "title": "冲绳"
+      }],
+      "hotaddressList": [{
+        "id": "0001",
+        "url": "https://m.ly.com/go/journeytopic/385/2150.html?from=hotplay",
+        "title": "古镇",
+        "imgUrl": "//pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg",
+        "desc": "今年最火的10大古镇"
+      }, {
+        "id": "0002",
+        "url": "https://m.ly.com/go/journeytopic/385/2150.html?from=hotplay",
+        "title": "古镇",
+        "imgUrl": "//pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg",
+        "desc": "今年最火的10大古镇"
+      }, {
+        "id": "0003",
+        "url": "https://m.ly.com/go/journeytopic/385/2150.html?from=hotplay",
+        "title": "古镇",
+        "imgUrl": "//pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg",
+        "desc": "今年最火的10大古镇"
+      }, {
+        "id": "0004",
+        "url": "https://m.ly.com/go/journeytopic/385/2150.html?from=hotplay",
+        "title": "古镇",
+        "imgUrl": "//pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg",
+        "desc": "今年最火的10大古镇"
+      }],
     "recommendList": [{
         "id": "0001",
         "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
