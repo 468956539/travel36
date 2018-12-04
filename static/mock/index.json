@@ -111,7 +111,7 @@
         "url": "//m.ly.com/public/destination/toprecommended?city_name=冲绳",
         "title": "冲绳"
       }],
-      "hotaddressList": [{
+      "hotsceneryList": [{
         "id": "0001",
         "url": "https://m.ly.com/go/journeytopic/385/2150.html?from=hotplay",
         "title": "古镇",
@@ -119,22 +119,22 @@
         "desc": "今年最火的10大古镇"
       }, {
         "id": "0002",
-        "url": "https://m.ly.com/go/journeytopic/385/2150.html?from=hotplay",
-        "title": "古镇",
-        "imgUrl": "//pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg",
-        "desc": "今年最火的10大古镇"
+        "url": "https://m.ly.com/go/journeytopic/3144/2155.html?from=hotplay",
+        "title": "海岛",
+        "imgUrl": "http://pic5.40017.cn/01/000/07/9e/rBLkBlnoZ5CAd5s8AAGoaencbUU275_300x200_00.jpg",
+        "desc": "适合秋冬出游的海岛"
       }, {
         "id": "0003",
-        "url": "https://m.ly.com/go/journeytopic/385/2150.html?from=hotplay",
-        "title": "古镇",
-        "imgUrl": "//pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg",
-        "desc": "今年最火的10大古镇"
+        "url": "https://m.ly.com/go/journeytopic/210/2154.html?from=hotplay",
+        "title": "自驾游",
+        "imgUrl": "http://pic5.40017.cn/01/001/04/14/rBLkBVnnEiaADQysAAD4v4j0QKY062_300x200_00.jpg",
+        "desc": "中国8大经典自驾线路"
       }, {
         "id": "0004",
-        "url": "https://m.ly.com/go/journeytopic/385/2150.html?from=hotplay",
-        "title": "古镇",
-        "imgUrl": "//pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg",
-        "desc": "今年最火的10大古镇"
+        "url": "https://m.ly.com/go/journeytopic/1813/1757.html?from=hotplay",
+        "title": "盘点",
+        "imgUrl": "//pic4.40017.cn/poi/2016/09/28/20/jfN5UH_300x200_00.jpg",
+        "desc": "10月旅行目的地推荐"
       }],
     "recommendList": [{
         "id": "0001",

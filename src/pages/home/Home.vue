@@ -7,6 +7,7 @@
     <home-discount :list="discountList"></home-discount>
     <home-aboutapp :list="aboutappList"></home-aboutapp>
     <home-hot :list="hotList"></home-hot>
+    <home-hotscenery :list="hotsceneryList"></home-hotscenery>
     <home-service></home-service>
     <home-footer></home-footer>
     <!-- <home-recommend :list="recommendList"></home-recommend> -->
@@ -22,6 +23,7 @@ import HomeRecommend from './components/Recommend'
 import HomeDiscount from './components/Discount'
 import HomeAboutapp from './components/Aboutapp'
 import HomeHot from './components/Hot'
+import HomeHotscenery from './components/Hotscenery'
 import HomeService from './components/Service'
 import HomeFooter from './components/Footer'
 import axios from 'axios'
@@ -36,6 +38,7 @@ export default{
     HomeDiscount,
     HomeAboutapp,
     HomeHot,
+    HomeHotscenery,
     HomeService,
     HomeFooter
   },
@@ -47,7 +50,7 @@ export default{
       discountList: [],
       downloadappList: [],
       hotList: [],
-      hotaddressList: []
+      hotsceneryList: []
     }
   },
   methods: {
@@ -64,7 +67,7 @@ export default{
         this.discountList = data.recommendList
         this.downloadappList = data.downloadappList
         this.hotList = data.hotList
-        this.hotaddressList = data.hotaddressList
+        this.hotsceneryList = data.hotsceneryList
       }
       console.log(res)
     }
