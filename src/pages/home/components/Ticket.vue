@@ -9,7 +9,7 @@
     </div>
 </template>
   
-  <script>
+<script>
   export default{
     name: 'HomeTicket',
     props: {
@@ -17,9 +17,8 @@
     },
     
   }
-  </script>
-  
-  <style scoped>
+</script>  
+<style scoped>
     .tickets{
       overflow: hidden;
       width: 100%;
@@ -34,7 +33,7 @@
       width: 25%;
       padding-bottom:20%;
     }
-    .ticket_img{ 
+    .ticket_img{
       position: absolute;
       top: 0;
       left: 0;
@@ -56,6 +55,4 @@
       text-align: center;
       color: #333;
     }
-   
-  </style>
-  
+    </style>

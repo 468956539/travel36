@@ -47,7 +47,6 @@ export default{
     margin-top: .15rem;
     text-align: center;
     color: #fff;
-    
   }
   .intro h4{
     width: 7.6rem;

@@ -10,7 +10,6 @@
     <home-hotscenery :list="hotsceneryList"></home-hotscenery>
     <home-service></home-service>
     <home-footer></home-footer>
-    <!-- <home-recommend :list="recommendList"></home-recommend> -->
 </div>
 </template>
 
@@ -19,7 +18,6 @@ import HomeHeader from './components/Header'
 import HomeSwiper from './components/Swiper'
 import HomeTicket from './components/Ticket'
 import HomeIcons from './components/Icons'
-import HomeRecommend from './components/Recommend'
 import HomeDiscount from './components/Discount'
 import HomeAboutapp from './components/Aboutapp'
 import HomeHot from './components/Hot'
@@ -34,7 +32,6 @@ export default{
     HomeSwiper,
     HomeTicket,
     HomeIcons,
-    HomeRecommend,
     HomeDiscount,
     HomeAboutapp,
     HomeHot,

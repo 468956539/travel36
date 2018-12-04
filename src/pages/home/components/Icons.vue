@@ -74,7 +74,7 @@ export default{
   .icon_img_style{
     display: block;
     width: 0.6rem;
-    margin: 0 auto; 
+    margin: 0 auto;
   }
   .icon_desc{
     position: absolute;

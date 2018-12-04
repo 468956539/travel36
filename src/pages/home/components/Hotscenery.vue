@@ -9,22 +9,6 @@
                         <p>{{item.desc}}</p>
                     </a>
                 </li>
-                <!-- <li>
-                    <a href="">
-                        <img src="//pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg">
-                        <span><b>古镇</b><i></i></span>
-                        <p>今年最火的10大古镇</p>
-                    </a>
-                </li> -->
-                <!-- <li>
-                    <a href="https://m.ly.com/go/journeytopic/3144/2155.html?from=hotplay" rel="nofollow" onclick="_tcTraObj._tcTrackEvent('touchhome_B','img','/hot-playing','locCid=324&amp;pos=2&amp;title=适合秋冬出游的海岛&amp;date=20180319')"><img src="http://pic5.40017.cn/01/000/07/9e/rBLkBlnoZ5CAd5s8AAGoaencbUU275_300x200_00.jpg"><span><b>海岛</b><i></i></span><p>适合秋冬出游的海岛</p></a>
-                </li>
-                <li>
-                    <a href="https://m.ly.com/go/journeytopic/210/2154.html?from=hotplay" rel="nofollow" onclick="_tcTraObj._tcTrackEvent('touchhome_B','img','/hot-playing','locCid=324&amp;pos=3&amp;title=中国8大经典自驾线路	&amp;date=20180319')"><img src="http://pic5.40017.cn/01/001/04/14/rBLkBVnnEiaADQysAAD4v4j0QKY062_300x200_00.jpg"><span><b>自驾游</b><i></i></span><p>中国8大经典自驾线路	</p></a>
-                </li>
-                <li>
-                    <a href="https://m.ly.com/go/journeytopic/1813/1757.html?from=hotplay" rel="nofollow" onclick="_tcTraObj._tcTrackEvent('touchhome_B','img','/hot-playing','locCid=324&amp;pos=4&amp;title=10月旅行目的地推荐&amp;date=20180319')"><img src="//pic4.40017.cn/poi/2016/09/28/20/jfN5UH_300x200_00.jpg"><span><b>盘点</b><i></i></span><p>10月旅行目的地推荐</p></a>
-                </li> -->
             </ul>
             <a class="more-link" href="https://m.ly.com/go/youji/view/gonglueIndex.html?fid=8" onclick="_tcTraObj._tcTrackEvent('touchhome_B','txt','/hot-more','locCid=324&amp;txt=查看更多玩法&amp;date=20180319')">查看更多玩法</a>
         </div>

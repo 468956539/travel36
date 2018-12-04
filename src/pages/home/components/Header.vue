@@ -55,7 +55,6 @@ export default{
     font-size:.28rem;
     font-weight:bold;
   }
- 
   .header_right{
     width: .48rem;
     float: right;
